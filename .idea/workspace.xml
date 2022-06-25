@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0562e4b-0260-410a-b483-a64ad9e3f26b" name="Default Changelist" comment="" />
+    <list default="true" id="b0562e4b-0260-410a-b483-a64ad9e3f26b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,6 +102,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="100" y="60" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1656159275330" />
+    <state x="562" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1656162395433">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="562" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1656162395433" />
     <state x="415" y="22" key="new project wizard" timestamp="1656158857409">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
