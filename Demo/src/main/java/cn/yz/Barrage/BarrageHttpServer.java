@@ -36,6 +36,7 @@ public class BarrageHttpServer {
                 //添加管道的编码器和解码器
                 nioSocketChannel.pipeline().addLast("http-decode",new HttpRequestDecoder());
                 nioSocketChannel.pipeline().addLast("http-encode",new HttpRequestEncoder());
+                //servlet 处理业务请求
 
             }
         });
